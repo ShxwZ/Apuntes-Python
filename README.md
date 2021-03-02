@@ -1,5 +1,6 @@
 # Apuntes-Python
-Algunos apuntes básicos de Phyton en Español para comenzar con el lenguaje.
+Algunos conceptos básicos y ejemplos de Phyton en Español para comenzar con el lenguaje.
+Podéis descomentar y probar el funcionamiento.
 Es necesario instalar algunos modulos para que funcionen algunas partes
 ```
 pip install colorama
